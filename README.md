@@ -1,2 +1,2 @@
 # Black-Jack
-Game of black jack against computer.
+Game of blackjack against computer.
